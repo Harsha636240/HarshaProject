@@ -11,8 +11,11 @@ public class ArrayLists {
        list.add(1);
        list.add(3);
        list.add(4);
+       list.add(5);
 
-        System.out.println(list);
+       int size = list.size();
+
+        System.out.println(size);
 
     }
 }
