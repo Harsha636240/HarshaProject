@@ -2,9 +2,12 @@
 import java.util.*;
 public class linkedList {
 
-public static void main(String []args){
 
-    LinkedList <Integer> List = new LinkedList<>();
+
+    public static void main(String [] args){
+
+
+        LinkedList <Integer> List = new LinkedList<>();
 
     List.add(1);
     List.add(2);
@@ -12,6 +15,7 @@ public static void main(String []args){
     List.add(1,4);
 
     System.out.println(List);
+    System.out.println("Harsha p");
 
 }
 }
