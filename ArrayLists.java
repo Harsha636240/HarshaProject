@@ -16,6 +16,7 @@ public class ArrayLists {
        int size = list.size();
 
         System.out.println(size);
+        System.out.println(list);
 
     }
 }
