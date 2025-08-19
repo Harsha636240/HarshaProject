@@ -1,0 +1,63 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "score",
+      "request": "launch",
+      "mainClass": "score",
+      "projectName": "HarshaProjcet_ab7e465e"
+    },
+    {
+      "type": "java",
+      "name": "pattern",
+      "request": "launch",
+      "mainClass": "pattern",
+      "projectName": "HarshaProjcet_ab7e465e"
+    },
+    {
+      "type": "java",
+      "name": "looptest",
+      "request": "launch",
+      "mainClass": "looptest",
+      "projectName": "HarshaProjcet_ab7e465e"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "calculator",
+      "request": "launch",
+      "mainClass": "calculator",
+      "projectName": "HarshaProjcet_ab7e465e"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "demo",
+      "projectName": "HarshaProjcet_ab7e465e"
+    },
+    {
+      "type": "java",
+      "name": "firstprojcet",
+      "request": "launch",
+      "mainClass": "firstprojcet",
+      "projectName": "HarshaProjcet_ab7e465e"
+    },
+    {
+      "type": "java",
+      "name": "loop",
+      "request": "launch",
+      "mainClass": "loop",
+      "projectName": "HarshaProjcet_ab7e465e"
+    }
+  ]
+}
