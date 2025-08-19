@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "banking",
+      "request": "launch",
+      "mainClass": "banking",
+      "projectName": "HarshaProjcet_ab7e465e"
+    },
+    {
+      "type": "java",
       "name": "score",
       "request": "launch",
       "mainClass": "score",
